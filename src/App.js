@@ -66,6 +66,8 @@ function Form(props){
               <select name="breed" defaultValue="shiba">
                 <option value="shiba">Shiba</option>
                 <option value="akita">Akita</option>
+                <option value="corgi">Corgi</option>
+                <option value="husky">Husky</option>
               </select>
             </div>
           </div>
